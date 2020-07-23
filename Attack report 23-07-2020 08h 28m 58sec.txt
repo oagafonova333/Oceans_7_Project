@@ -1,0 +1,13 @@
+			---Attack report 23-07-2020 08:28:58---
+Attack produced using a Windowsploitable7 attack machine
+Valuable info:
+
+date           Jul 13, 2020 15:29:26.021878216 CEST
+duration                                0.000194863
+src_port                                      32989
+destination                               10.0.2.13
+dest_port                                        80
+protocol                                       HTTP
+length                                          282
+info                     GET /info/b1.php HTTP/1.1 
+Name: 3582, dtype: object

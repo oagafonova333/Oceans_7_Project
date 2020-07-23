@@ -1,0 +1,9 @@
+,type_of_attack,lb_type_of_attack
+0,Dirbuster,1
+1,Hydra,2
+2,SQLMAP,6
+3,OpenVas,5
+4,Nikto,4
+5,Nessus,3
+6,nmap,7
+7,Unknown Attack,0
