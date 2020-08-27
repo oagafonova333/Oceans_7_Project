@@ -53,7 +53,6 @@ Diario del proyecto
 
 - 04/07/2020
 
-	(Dibmar)
 	* Explorando 01-07_Kali
 		Se ha presupuesto que los espacios NaN corresponden con la misma información que los válidos
 		+ Se va a dividir el df en 3:
@@ -70,7 +69,6 @@ Diario del proyecto
 
 - 06/07/2020
 
-	(Dibmar)
 	* Explorando 01-07_Kali(2)
 		Se ha presupuesto que los espacios NaN corresponden con la misma información que los válidos
 		Se va a proponer la idea de que los espacios vacíos sean representados por '0'
@@ -86,7 +84,6 @@ Diario del proyecto
 
 - 07/07/2020
 
-	(Dibmar)
 	* Explorando 07-07_Kali-Normal
 		Vuelve a haber presente un número elevado de NaNs. Sin embargo, el problema de importación se ha solucionado.
 		+ Se va a dividir el df en 3:
@@ -99,7 +96,6 @@ Diario del proyecto
 
 - 08/07/2020
 
-	(Dibmar)
 	* Explorando 08-07_Kali-Normal
 		Vuelve a haber presente un número elevado de NaNs. Sin embargo, el problema de importación se ha solucionado.
 		+ Se va a dividir el df en 3:
@@ -113,7 +109,6 @@ Diario del proyecto
 
 - 11/07/2020
 
-	(Dibmar)
 	* Explorando 08-07_Hydra_attacks (tanto éxito como fracaso)
 		Vuelve a haber presente un número elevado de NaNs. Preocupante columna de protocolo
 		Se observa una diferencia de un 18% entre los ataques fallidos y los exitosos, siendo los primeros los más largos.
@@ -138,7 +133,6 @@ Diario del proyecto
 
 - 14/07/2020
 
-	(Dibmar)
 	* Creado nuevo notebook 14-07_Normal_Traffic
 		Contiene todos los registros generados el 14/07/2020 de tráfico Normal
 
@@ -154,7 +148,6 @@ Diario del proyecto
 
 - 15/07/2020
 
-	(Dibmar)
 	* Creado nuevo notebook 15-07_ML_model
 		Contiene el código para los modelos de ML
 		
@@ -172,7 +165,6 @@ Diario del proyecto
 
 - 19/07/2020
 
-	(Dibmar)
 	* 15-07_ML_model
 		XLGBoost Classifier seleccionado como modelo para demostración
 		+ Se ha procedido a
@@ -191,7 +183,6 @@ Diario del proyecto
 
 - 21/07/2020
 
-	(Dibmar)
 	* predictor_1
 		+ Se ha procedido a 
 			- Generar los modelos de predicción para demostración
@@ -204,7 +195,6 @@ Diario del proyecto
 
 - 22/07/2020
 
-	(Dibmar)
 	* functions
 		+ Se ha ajustado
 			- Los parámetros de representación de las funciones creadoras de modelo
@@ -213,6 +203,5 @@ Diario del proyecto
 
 - 22/07/2020
 
-	(Dibmar)
 	* predictor_1
 		Toques finales al modelo para presentación
